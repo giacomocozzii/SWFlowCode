@@ -1,6 +1,6 @@
 # Sliced Wasserstein Flow Lab
 
-🚀 [Launch the interactive simulator](https://https://swflowcode-arjwkwzkyhmgawyhdgyund.streamlit.app)
+🚀 [Launch the interactive simulator](https://swflowcode-arjwkwzkyhmgawyhdgyund.streamlit.app)
 
 An interactive **Streamlit** experiment for empirical gradient descent of a finite-direction sliced-Wasserstein energy in two dimensions. The initial and target measures independently support restricted LaTeX Lebesgue densities (optionally restricted to a geometric region) and the target can also be a singular Hausdorff measure.
 
